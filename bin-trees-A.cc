@@ -3,21 +3,6 @@
 
 FILE NAME      :  bin-trees-A.cc
 
-FIRST COMPLETED:  by W. Knight, July 5, 1993
-MODIFIED       :  by W. Knight, Jan. 17, 1994 (converted it from Pascal to C++)
-                  by W. Knight, Sept. 1, 1997 (revised documentation)
-                  by W. Knight, Oct. 7, 1998  (adapted it for C243)
-                  by W. Knight, Aug. 20, 2000 (added a function)
-                  by W. Knight, Feb. 16, 2003 (changed a function)
-                  by D. Vrajitoru, March 14, 2004 (new header style)
-                  by D. Vrajitoru and C. George (added a print function)
-                                                Nov 3, 2004
-                  by D. Vrajitoru, Oct. 17, 2012.
-                  by D. Vrajitoru, Oct. 25, 2013,
-                  by D. Vrajitoru, Oct. 14, 2014,
-
-LANGUAGE :  GNU C++ for Linux
-
 ACTION   :  The program allows an interactive user to build binary
             trees with integer labels on the nodes, to get information
             about these trees, and to modify or destroy them.
